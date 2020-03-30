@@ -1,0 +1,13 @@
+.active{
+  background-color: #0088a4;
+}
+.selected{
+  background-color: #fff !important;
+  color: #00d0d4 !important;
+}
+.outline{
+  border-bottom: 2px solid #00d0d4;
+}
+.isShow{
+  display: block;
+}
