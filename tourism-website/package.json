@@ -10,7 +10,7 @@
     "serve:production": "set NODE_ENV=production&&vue-cli-service serve"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "jquery": "^3.4.1",
     "qs": "^6.9.3",
